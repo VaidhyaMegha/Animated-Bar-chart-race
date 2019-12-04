@@ -35,5 +35,9 @@ const main = runtime.module(define);
 main.value("foo").then(value => console.log(value));
 ~~~
 =======
+<<<<<<< HEAD
+=======
+
+>>>>>>> d70c81b2e9e3b7245ed7658ebc47b4c9c9c99a54
 
 
