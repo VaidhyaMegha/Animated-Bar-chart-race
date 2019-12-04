@@ -1,6 +1,8 @@
 
 # Bar Chart Race, Explained
 
+The bar chart race is an animated chart and it displays top "n" values as per year or any category.It will take 2 or 3 mins to generate bar chart.Please wait.
+
 https://observablehq.com/@d3/bar-chart-race-explained@3007
 
 View this notebook in your browser by running a web server in this folder. For
@@ -34,6 +36,6 @@ main.value("foo").then(value => console.log(value));
 ~~~
 =======
 # Animated-Bar-Chart-Race
-The bar chart race is an animated chart and it displays top "n" values as per year or any category.
+The bar chart race is an animated chart and it displays top "n" values as per year or any category.It will take 2 or 3 mins to generate bar chart.Please wait.
 
 
