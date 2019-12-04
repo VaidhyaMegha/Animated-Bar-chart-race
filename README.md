@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Bar Chart Race, Explained
 
 https://observablehq.com/@d3/bar-chart-race-explained@3007
@@ -36,8 +35,5 @@ main.value("foo").then(value => console.log(value));
 =======
 # Animated-Bar-Chart-Race
 The bar chart race is an animated chart and it displays top "n" values as per year or any category.
->>>>>>> 13f8c5caee18a7a8542e7690dfcf506264957b49
-=======
-# Animated-Bar-Chart-Race
-The bar chart race is an animated chart and it displays top "n" values as per year or any category.
->>>>>>> 13f8c5caee18a7a8542e7690dfcf506264957b49
+
+
