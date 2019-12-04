@@ -27,7 +27,9 @@ html`<button>Replay`
 )});
   main.define("replay", ["Generators", "viewof replay"], (G, _) => G.input(_));
   main.variable(observer("title")).define("title", ["md"], function(md){return(
-md`## Top 12 clinical trial data's cond as per trial_count and start_year`
+md`## Top 12 clinical trial data's cond as per trial_count and start_year
+
+It will take 2 or 3 mins to generate bar chart.Please wait.`
 )});
   main.variable(observer("chart")).define("chart", ["replay","d3","width","height","bars","axis","labels","ticker","keyframes","duration","x","invalidation"], async function*(replay,d3,width,height,bars,axis,labels,ticker,keyframes,duration,x,invalidation)
 {
